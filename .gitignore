@@ -1,0 +1,28 @@
+# Dependências do Composer
+/vendor
+/composer.lock
+
+# Arquivos de configuração do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos e diretórios relacionados ao IDE/editor
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Arquivos temporários
+/tmp
+*.tmp
+
+# Diretório de armazenamento (JSON, dados temporários, etc.)
+/storage/
+
+# Diretórios de cache e dependências de testes
+/cache
+.phpunit.result.cache
+
+# Testes de cobertura de código
+/coverage/
